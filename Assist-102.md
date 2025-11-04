@@ -1,4 +1,4 @@
-# Wave Propagation – Sheet 1 – Complete Analytical Solutions with Detailed Verification
+# SNS415 – Wave Propagation Assist-102
 
 **Prepared by:** Gaafer Gouda – Faculty of Navigation Science and Space Technology, Beni-Suef University  
 **Course:** SNS415 – *Wave Propagation*  
